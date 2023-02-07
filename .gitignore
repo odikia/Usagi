@@ -107,5 +107,6 @@ fabric.properties
 # Daniel keeps the usagi app in this folder. 
 Usagi_v**.jar
 vocabulary_download_v*
+*.lnk
 
 # End of https://www.gitignore.io/api/intellij
